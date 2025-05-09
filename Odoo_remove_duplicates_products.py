@@ -32,3 +32,5 @@ def remove_duplicate_products(self):
             'sticky': False,
         }
     }
+## Powered By HSx Tech
+## Ali 

@@ -68,6 +68,5 @@ MIT License – Free to use and modify.
 **Contribute or Report Issues**  
 Feel free to fork, improve, or suggest enhancements!  
 
-🔗 **GitHub**: [https://github.com/your-repo/odoo-bom-cleanup](https://github.com/your-repo/odoo-bom-cleanup)  
 
-**Powered by Hsx TECH** – *Optimizing Odoo for Smarter Manufacturing* 🏭
+**Powered by Hsx TECH** – *Collaborate, Lead, Collaborate* 

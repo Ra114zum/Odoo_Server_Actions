@@ -25,3 +25,5 @@ def remove_archived_products(self):
             'sticky': False,
         }
     }
+## Powered By HSx Tech
+## Ali 

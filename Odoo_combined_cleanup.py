@@ -40,3 +40,6 @@ def combined_bom_cleanup(self):
             'sticky': True,
         }
     }
+
+## Powered By HSx Tech
+## Ali 

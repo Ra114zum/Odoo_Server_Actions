@@ -69,4 +69,4 @@ MIT License – Free to use and modify.
 Feel free to fork, improve, or suggest enhancements!  
 
 
-**Powered by Hsx TECH** – *Collaborate, Lead, Collaborate* 
+**Powered by Hsx TECH** – *Collaborate, Lead, Innovate* 

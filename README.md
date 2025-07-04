@@ -59,6 +59,7 @@ This repository contains Python scripts for Odoo server actions that help mainta
 ├── remove_archived_products.py  
 ├── remove_duplicate_products.py  
 └── combined_cleanup_action.py
+└── Odoo_remove_zero_qty_products.py
 └── Odoo_Reset_to_draft_Journal entries.py
 ```  
 
